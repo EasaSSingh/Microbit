@@ -20,6 +20,8 @@ $(document).ready(function() {
 table {
   position: relative;
   width: 700px;
+
+  easa
   background-color: #aaa;
   overflow: hidden;
   border-collapse: collapse;
